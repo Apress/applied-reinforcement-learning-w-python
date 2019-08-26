@@ -1,0 +1,7 @@
+gym
+box2d-py
+vizdoom
+tensorflow-gpu
+baselines
+collections
+keras
